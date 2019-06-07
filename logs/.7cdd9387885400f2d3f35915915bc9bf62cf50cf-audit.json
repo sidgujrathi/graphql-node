@@ -1,0 +1,69 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "logs\\.7cdd9387885400f2d3f35915915bc9bf62cf50cf-audit.json",
+    "files": [
+        {
+            "date": 1558949246854,
+            "name": "logs\\2019-05-27-14-DCA-app.log",
+            "hash": "c23ed1867ed4d21167b36c22493eec68"
+        },
+        {
+            "date": 1558954179530,
+            "name": "logs\\2019-05-27-16-DCA-app.log",
+            "hash": "31e6833eb6ac160cb31bb3316d7b03a1"
+        },
+        {
+            "date": 1558956918656,
+            "name": "logs\\2019-05-27-17-DCA-app.log",
+            "hash": "b1f2775b06c65f47530c19527f0818b8"
+        },
+        {
+            "date": 1559021017578,
+            "name": "logs\\2019-05-28-10-DCA-app.log",
+            "hash": "01e2171bea491e17d83bb2bcb7e2cb29"
+        },
+        {
+            "date": 1559023722168,
+            "name": "logs\\2019-05-28-11-DCA-app.log",
+            "hash": "9ff543c51c1ca783fd1676a71d0b8c75"
+        },
+        {
+            "date": 1559025307997,
+            "name": "logs\\2019-05-28-12-DCA-app.log",
+            "hash": "b6a9a43b74af9946cc3c6d101091bcb3"
+        },
+        {
+            "date": 1559043020760,
+            "name": "logs\\2019-05-28-17-DCA-app.log",
+            "hash": "1ca13cbfc6eb7d11dd90432279b392ce"
+        },
+        {
+            "date": 1559047051436,
+            "name": "logs\\2019-05-28-18-DCA-app.log",
+            "hash": "09fb18a6786701d05767cb809f1802a6"
+        },
+        {
+            "date": 1559054615263,
+            "name": "logs\\2019-05-28-20-DCA-app.log",
+            "hash": "b383295e16aa864aafbb80e3919e0b99"
+        },
+        {
+            "date": 1559112722905,
+            "name": "logs\\2019-05-29-12-DCA-app.log",
+            "hash": "7b686dd754a7548169f67460e9808f0e"
+        },
+        {
+            "date": 1559137388918,
+            "name": "logs\\2019-05-29-19-DCA-app.log",
+            "hash": "f23d9b6b7901d00c140b19c8c8ca5d87"
+        },
+        {
+            "date": 1559552282935,
+            "name": "logs\\2019-06-03-14-DCA-app.log",
+            "hash": "711d20113a5d9ebe68c0eca0f921cf7a"
+        }
+    ]
+}
